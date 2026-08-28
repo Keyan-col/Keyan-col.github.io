@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sifu Indoor Positioning System"
+excerpt: "iOS indoor positioning with BLE, GPS, IMU, and improved PDR methods."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Overview
+
+Research assistant work at HKUST on an indoor positioning system for real-time user location tracking.
+
+### Contributions
+
+* Implemented iOS features based on BLE, GPS, and IMU signals.
+* Integrated threshold filtering into improved PDR methods.
+* Enabled detection of shaking, running, walking, and standing states.
+* Improved practical positioning accuracy to approximately 2–5 meters.
